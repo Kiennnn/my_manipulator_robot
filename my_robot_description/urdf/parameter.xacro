@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+    <xacro:property name="link00_name" value="base_link"/>
+    <xacro:property name="link01_name" value="link01"/>
+    <xacro:property name="link02_name" value="link02"/>
+    <xacro:property name="link03_name" value="link03"/>
+    <xacro:property name="link04_name" value="wrist"/>
+    <xacro:property name="link05_name" value="right_gripper"/>
+    <xacro:property name="link06_name" value="left_gripper"/>
+</robot>
